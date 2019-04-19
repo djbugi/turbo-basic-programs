@@ -1,0 +1,217 @@
+"   Ang Gumawa nito ay nagpapasalamat sa mga taong sumusunod...   "
+"Ferdie      Noel     Anthony     Ruth     Elsy    Alex     Jet     Jack     George     Richard      Michael  "
+"   Aldren     Jad"
+lesson 1 max size 728 character. line 4 char per line 182
+"dffd dddd ssdd ssad ,dfdf dfdd dfsd dsfd dfdf sdfs sasd sddf sddf dfds fdff sdfd sdff sdff dfdd fdsd dfad dsdf dasd dadf dfaf dfad ssdfs sdff fafd sdff ssas ssdd aasd addf asdd sdfa"
+"dffd dddd ssdd ssad dfdf dfdd dfsd dsfd dfdf sdfs sasd sddf sddf dfds fdff sdfd sdff sdff dfdd fdsd dfad dsdf dasd dadf dfaf dfad ssdfs sdff fafd sdff ssas ssdd aasd addf asdd sdfa"
+"dffd dddd ssdd ssad dfdf dfdd dfsd dsfd dfdf sdfs sasd sddf sddf dfds fdff sdfd sdff sdff dfdd fdsd dfad dsdf dasd dadf dfaf dfad ssdfs sdff fafd sdff ssas ssdd aasd addf asdd sdfa"
+"dffd dddd ssdd ssad dfdf dfdd dfsd dsfd dfdf sdfs sasd sddf sddf dfds fdff sdfd sdff sdff dfdd fdsd dfdd dsdf dasd dadf dfaf dfad ssdfs sdff fafd sdff ssas ssdd aasd addf asdd sdfa"
+lesson 2 max size 728 character. line 4 char per line 182
+"dffg dddd ssdg ssad dfgf dfdd dfgd dsfd dgdf sdfs sgsd sddf sgdf dfds fdff sdgd sdff sdff dgdd fdsd dfgd dgdf dasd dagf dfaf dfad ssdfs sdfg fgfd sdff ssgs ssdd aasd adgf asdd dfsa"
+"dffg dddd ssdg ssad dfgf dfdd dfgd dsfd dgdf sdfs sgsd sddf sgdf dfds fdff sdgd sdff sdff dgdd fdsd dfgd dgdf dasd dagf dfaf dfad ssdfs sdfg fgfd sdff ssgs ssdd aasd adgf asdd dfsa"
+"dffg dddd ssdg ssad dfgf dfdd dfgd dsfd dgdf sdfs sgsd sddf sgdf dfds fdff sdgd sdff sdff dgdd fdsd dfgd dgdf dasd dagf dfaf dfad ssdfs sdfg fgfd sdff ssgs ssdd aasd adgf asdd dfsa"
+"dffg dddd ssdg ssad dfgf dfdd dfgd dsfd dgdf sdfs sgsd sddf sgdf dfds fdff sdgd sdff sdff dgdd fdsd dfgd dgdf dasd dagf dfaf dfad ssdfs sdfg fgfd sdff ssgs ssdd aasd adgf asdd dfsa"
+lesson 3 max size 728 character. line 4 char per line 182
+"kkjj lkkk klkl kjjl kllk kllj ;kl; kkll kkjl ljk; lkjj lkjj kjkj lkjl lkjj ljkl lkk; kjkl lj;l kjlk lkjl ljl; lkjk ;kjj lkj; lkj; l;jkk ;lkj kjjk lkjk kljl ljkl jlkl ljll lkjl ;lkl"
+"kkjj lkkk klkl kjjl kllk kllj ;kl; kkll kkjl ljk; lkjj lkjj kjkj lkjl lkjj ljkl lkk; kjkl lj;l kjlk lkjl ljl; lkjk ;kjj lkj; lkj; l;jkk ;lkj kjjk lkjk kljl ljkl jlkl ljll lkjl ;lkl"
+"kkjj lkkk klkl kjjl kllk kllj ;kl; kkll kkjl ljk; lkjj lkjj kjkj lkjl lkjj ljkl lkk; kjkl lj;l kjlk lkjl ljl; lkjk ;kjj lkj; lkj; l;jkk ;lkj kjjk lkjk kljl ljkl jlkl ljll lkjl ;lkl"
+"kkjj lkkk klkl kjjl kllk kllj ;kl; kkll kkjl ljk; lkjj lkjj kjkj lkjl lkjj ljkl lkk; kjkl lj;l kjlk lkjl ljl; lkjk ;kjj lkj; lkj; l;jkk ;lkj kjjk lkjk kljl ljkl jlkl ljll lkjl ;lkl"
+lesson 4 max size 728 character. line 4 char per line 182
+"kkjj hkkk hhkl kjjl kllk kllj hhl; kkll kkjh ljk; lkjj hhjj kjkj lkjl lkjj ljhl lkk; kjkl lj;l khlk lkjl ljl; lkjh ;kjj lkj; lkj; l;jkk ;lkh kjjk lkjk kljl lhkl jlkl ljll lkjl ;lkl"
+"kkjj hkkk hhkl kjjl kllk kllj hhl; kkll kkjh ljk; lkjj hhjj kjkj lkjl lkjj ljhl lkk; kjkl lj;l khlk lkjl ljl; lkjh ;kjj lkj; lkj; l;jkk ;lkh kjjk lkjk kljl lhkl jlkl ljll lkjl ;lkl"
+"kkjj hkkk hhkl kjjl kllk kllj hhl; kkll kkjh ljk; lkjj hhjj kjkj lkjl lkjj ljhl lkk; kjkl lj;l khlk lkjl ljl; lkjh ;kjj lkj; lkj; l;jkk ;lkh kjjk lkjk kljl lhkl jlkl ljll lkjl ;lkl"
+"kkjj hkkk hhkl kjjl kllk kllj hhl; kkll kkjh ljk; lkjj hhjj kjkj lkjl lkjj ljhl lkk; kjkl lj;l khlk lkjl ljl; lkjh ;kjj lkj; lkj; l;jkk ;lkh kjjk lkjk kljl lhkl jlkl ljll lkjl ;lkl"
+lesson 5 max size 728 character. line 4 char per line 182
+"dfjd dddk ssdd ssld d;df dfdd dfsd djfd dfdf skfs sasd skdf sddf dfls fdff sdjd sdff sdkf dfdd fdld dfad da;f dasd dadf df;f djad ssdfs s;ff fgfj sdff ssas ksdd aasd adjf asdd dfsk"
+"dfjd dddk ssdd ssld d;df dfdd dfsd djfd dfdf skfs sasd skdf sddf dfls fdff sdjd sdff sdkf dfdd fdld dfad da;f dasd dadf df;f djad ssdfs s;ff fgfj sdff ssas ksdd aasd adjf asdd dfsk"
+"dfjd dddk ssdd ssld d;df dfdd dfsd djfd dfdf skfs sasd skdf sddf dfls fdff sdjd sdff sdkf dfdd fdld dfad da;f dasd dadf df;f djad ssdfs s;ff fgfj sdff ssas ksdd aasd adjf asdd dfsk"
+"dfjd dddk ssdd ssld d;df dfdd dfsd djfd dfdf skfs sasd skdf sddf dfls fdff sdjd sdff sdkf dfdd fdld dfad da;f dasd dadf df;f djad ssdfs s;ff fgfj sdff ssas ksdd aasd adjf asdd dfsk"
+lesson 6 max size 728 character. line 4 char per line 182
+"jeed lead led j led jed fffg asd leda s leader fur edua feta sdfe fgek kluj dfdfg dfsdf jkle dfkl dfsd dfed dfedfd dfsd dfds de dfdk ku jdde klsde deuk lsde defs dfgkel dedsd dfgdd"
+"jeed lead led j led jed fffg asd leda s leader fur edua feta sdfe fgek kluj dfdfg dfsdf jkle dfkl dfsd dfed dfedfd dfsd dfds de dfdk ku jdde klsde deuk lsde defs dfgkel dedsd dfgdd"
+"jeed lead led j led jed fffg asd leda s leader fur edua feta sdfe fgek kluj dfdfg dfsdf jkle dfkl dfsd dfed dfedfd dfsd dfds de dfdk ku jdde klsde deuk lsde defs dfgkel dedsd dfgdd"
+"jeed lead led j led jed fffg asd leda s leader fur edua feta sdfe fgek kluj dfdfg dfsdf jkle dfkl dfsd dfed dfedfd dfsd dfds de dfdk ku jdde klsde deuk lsde defs dfgkel dedsd dfgdd"
+lesson 7 max size 728 character . line 4 char per line 182
+"fgf hal egg led hadfg jds dad dhad kedf dfls dflk dfsh hdsd fjhd dfl ddfgh dfgj dfsid dfdle dfgds df;dfde dsdk dfghd dfd dfdd kd dfdf kdf dsde dfdf ddfd dfde dedf j dfddf ddfd eedf"
+"fgf hal egg led hadfg jds dad dhad kedf dfls dflk dfsh hdsd fjhd dfl ddfgh dfgj dfsid dfdle dfgds df;dfde dsdk dfghd dfd dfdd kd dfdf kdf dsde dfdf ddfd dfde dedf j dfddf ddfd eedf"
+"fgf hal egg led hadfg jds dad dhad kedf dfls dflk dfsh hdsd fjhd dfl ddfgh dfgj dfsid dfdle dfgds df;dfde dsdk dfghd dfd dfdd kd dfdf kdf dsde dfdf ddfd dfde dedf j dfddf ddfd eedf"
+"fgf hal egg led hadfg jds dad dhad kedf dfls dflk dfsh hdsd fjhd dfl ddfgh dfgj dfsid dfdle dfgds df;dfde dsdk dfghd dfd dfdd kd dfdf kdf dsde dfdf ddfd dfde dedf j dfddf ddfd eedf"
+lesson 8 max size 728 character. line 4 char per line 182
+"dffd dddd ssdd ssad ,dfdf dfdd dfsd dsfd dfdf sdfs sasd sddf sddf dfds fdff sdfd sdff sdff dfdd fdsd dfad dsdf dasd dadf dfaf dfad ssdfs sdff fafd sdff ssas ssdd aasd addf asdd sdfd"
+"dffd dddd ssdd ssad dfdf dfdd dfsd dsfd dfdf sdfs sasd sddf sddf dfds fdff sdfd sdff sdff dfdd fdsd dfad dsdf dasd dadf dfaf dfad ssdfs sdff fafd sdff ssas ssdd aasd addf asdd sdfd"
+"dffd dddd ssdd ssad dfdf dfdd dfsd dsfd dfdf sdfs sasd sddf sddf dfds fdff sdfd sdff sdff dfdd fdsd dfad dsdf dasd dadf dfaf dfad ssdfs sdff fafd sdff ssas ssdd aasd addf asdd sdfd"
+"dffd dddd ssdd ssad dfdf dfdd dfsd dsfd dfdf sdfs sasd sddf sddf dfds fdff sdfd sdff sdff dfdd fdsd dfdd dsdf dasd dadf dfaf dfad ssdfs sdff fafd sdff ssas ssdd aasd addf asdd sdfd"
+lesson 9 max size 728 character. line 4 char per line 182
+"dffg dddd ssdg ssad dfgf dfdd dfgd dsfd dgdf sdfs sgsd sddf sgdf dfds fdff sdgd sdff sdff dgdd fdsd dfgd dgdf dasd dagf dfaf dfad ssdfs sdfg fgfd sdff ssgs ssdd aasd adgf asdd dfsa"
+"dffg dddd ssdg ssad dfgf dfdd dfgd dsfd dgdf sdfs sgsd sddf sgdf dfds fdff sdgd sdff sdff dgdd fdsd dfgd dgdf dasd dagf dfaf dfad ssdfs sdfg fgfd sdff ssgs ssdd aasd adgf asdd dfsa"
+"dffg dddd ssdg ssad dfgf dfdd dfgd dsfd dgdf sdfs sgsd sddf sgdf dfds fdff sdgd sdff sdff dgdd fdsd dfgd dgdf dasd dagf dfaf dfad ssdfs sdfg fgfd sdff ssgs ssdd aasd adgf asdd dfsa"
+"dffg dddd ssdg ssad dfgf dfdd dfgd dsfd dgdf sdfs sgsd sddf sgdf dfds fdff sdgd sdff sdff dgdd fdsd dfgd dgdf dasd dagf dfaf dfad ssdfs sdfg fgfd sdff ssgs ssdd aasd adgf asdd dfsa"
+lesson 10 max size 728 character. line 4 char per line 182
+"kkjj lkkk klkl kjjl kllk kllj ;kl; kkll kkjl ljk; lkjj lkjj kjkj lkjl lkjj ljkl lkk; kjkl lj;l kjlk lkjl ljl; lkjk ;kjj lkj; lkj; l;jkk ;lkj kjjk lkjk kljl ljkl jlkl ljll lkjl ;lkl"
+"kkjj lkkk klkl kjjl kllk kllj ;kl; kkll kkjl ljk; lkjj lkjj kjkj lkjl lkjj ljkl lkk; kjkl lj;l kjlk lkjl ljl; lkjk ;kjj lkj; lkj; l;jkk ;lkj kjjk lkjk kljl ljkl jlkl ljll lkjl ;lkl"
+"kkjj lkkk klkl kjjl kllk kllj ;kl; kkll kkjl ljk; lkjj lkjj kjkj lkjl lkjj ljkl lkk; kjkl lj;l kjlk lkjl ljl; lkjk ;kjj lkj; lkj; l;jkk ;lkj kjjk lkjk kljl ljkl jlkl ljll lkjl ;lkl"
+"kkjj lkkk klkl kjjl kllk kllj ;kl; kkll kkjl ljk; lkjj lkjj kjkj lkjl lkjj ljkl lkk; kjkl lj;l kjlk lkjl ljl; lkjk ;kjj lkj; lkj; l;jkk ;lkj kjjk lkjk kljl ljkl jlkl ljll lkjl ;lkl"
+lesson 11 max size 728 character. line 4 char per line 182
+"kkjj hkkk hhkl kjjl kllk kllj hhl; kkll kkjh ljk; lkjj hhjj kjkj lkjl lkjj ljhl lkk; kjkl lj;l khlk lkjl ljl; lkjh ;kjj lkj; lkj; l;jkk ;lkh kjjk lkjk kljl lhkl jlkl ljll lkjl ;lkl"
+"kkjj hkkk hhkl kjjl kllk kllj hhl; kkll kkjh ljk; lkjj hhjj kjkj lkjl lkjj ljhl lkk; kjkl lj;l khlk lkjl ljl; lkjh ;kjj lkj; lkj; l;jkk ;lkh kjjk lkjk kljl lhkl jlkl ljll lkjl ;lkl"
+"kkjj hkkk hhkl kjjl kllk kllj hhl; kkll kkjh ljk; lkjj hhjj kjkj lkjl lkjj ljhl lkk; kjkl lj;l khlk lkjl ljl; lkjh ;kjj lkj; lkj; l;jkk ;lkh kjjk lkjk kljl lhkl jlkl ljll lkjl ;lkl"
+"kkjj hkkk hhkl kjjl kllk kllj hhl; kkll kkjh ljk; lkjj hhjj kjkj lkjl lkjj ljhl lkk; kjkl lj;l khlk lkjl ljl; lkjh ;kjj lkj; lkj; l;jkk ;lkh kjjk lkjk kljl lhkl jlkl ljll lkjl ;lkl"
+lesson 12 max size 728 character. line 4 char per line 182
+"dfjd dddk ssdd ssld d;df dfdd dfsd djfd dfdf skfs sasd skdf sddf dfls fdff sdjd sdff sdkf dfdd fdld dfad da;f dasd dadf df;f djad ssdfs s;ff fgfj sdff ssas ksdd aasd adjf asdd dfsk"
+"dfjd dddk ssdd ssld d;df dfdd dfsd djfd dfdf skfs sasd skdf sddf dfls fdff sdjd sdff sdkf dfdd fdld dfad da;f dasd dadf df;f djad ssdfs s;ff fgfj sdff ssas ksdd aasd adjf asdd dfsk"
+"dfjd dddk ssdd ssld d;df dfdd dfsd djfd dfdf skfs sasd skdf sddf dfls fdff sdjd sdff sdkf dfdd fdld dfad da;f dasd dadf df;f djad ssdfs s;ff fgfj sdff ssas ksdd aasd adjf asdd dfsk"
+"dfjd dddk ssdd ssld d;df dfdd dfsd djfd dfdf skfs sasd skdf sddf dfls fdff sdjd sdff sdkf dfdd fdld dfad da;f dasd dadf df;f djad ssdfs s;ff fgfj sdff ssas ksdd aasd adjf asdd dfsk"
+lesson 13 max size 728 character. line 4 char per line 182
+"jeed lead led j led jed fffg asd leda s leader fur edua feta sdfe fgek kluj dfdfg dfsdf jkle dfkl dfsd dfed dfedfd dfsd dfds de dfdk ku jdde klsde deuk lsde defs dfgkel dedsd dfgdd"
+"jeed lead led j led jed fffg asd leda s leader fur edua feta sdfe fgek kluj dfdfg dfsdf jkle dfkl dfsd dfed dfedfd dfsd dfds de dfdk ku jdde klsde deuk lsde defs dfgkel dedsd dfgdd"
+"jeed lead led j led jed fffg asd leda s leader fur edua feta sdfe fgek kluj dfdfg dfsdf jkle dfkl dfsd dfed dfedfd dfsd dfds de dfdk ku jdde klsde deuk lsde defs dfgkel dedsd dfgdd"
+"jeed lead led j led jed fffg asd leda s leader fur edua feta sdfe fgek kluj dfdfg dfsdf jkle dfkl dfsd dfed dfedfd dfsd dfds de dfdk ku jdde klsde deuk lsde defs dfgkel dedsd dfgdd"
+lesson 14 max size 728 character . line 4 char per line 182
+"fgf hal egg led hadfg jds dad dhad kedf dfls dflk dfsh hdsd fjhd dfl ddfgh dfgj dfsid dfdle dfgds df;dfde dsdk dfghd dfd dfdd kd dfdf kdf dsde dfdf ddfd dfde dedf j dfddf ddfd eedf"
+"fgf hal egg led hadfg jds dad dhad kedf dfls dflk dfsh hdsd fjhd dfl ddfgh dfgj dfsid dfdle dfgds df;dfde dsdk dfghd dfd dfdd kd dfdf kdf dsde dfdf ddfd dfde dedf j dfddf ddfd eedf"
+"fgf hal egg led hadfg jds dad dhad kedf dfls dflk dfsh hdsd fjhd dfl ddfgh dfgj dfsid dfdle dfgds df;dfde dsdk dfghd dfd dfdd kd dfdf kdf dsde dfdf ddfd dfde dedf j dfddf ddfd eedf"
+"fgf hal egg led hadfg jds dad dhad kedf dfls dflk dfsh hdsd fjhd dfl ddfgh dfgj dfsid dfdle dfgds df;dfde dsdk dfghd dfd dfdd kd dfdf kdf dsde dfdf ddfd dfde dedf j dfddf ddfd eedf"
+lesson 15 max size 728 character. line 4 char per line 182
+"dffd dddd ssdd ssad ,dfdf dfdd dfsd dsfd dfdf sdfs sasd sddf sddf dfds fdff sdfd sdff sdff dfdd fdsd dfad dsdf dasd dadf dfaf dfad ssdfs sdff fafd sdff ssas ssdd aasd addf asdd sdfd"
+"dffd dddd ssdd ssad dfdf dfdd dfsd dsfd dfdf sdfs sasd sddf sddf dfds fdff sdfd sdff sdff dfdd fdsd dfad dsdf dasd dadf dfaf dfad ssdfs sdff fafd sdff ssas ssdd aasd addf asdd sdfd"
+"dffd dddd ssdd ssad dfdf dfdd dfsd dsfd dfdf sdfs sasd sddf sddf dfds fdff sdfd sdff sdff dfdd fdsd dfad dsdf dasd dadf dfaf dfad ssdfs sdff fafd sdff ssas ssdd aasd addf asdd sdfd"
+"dffd dddd ssdd ssad dfdf dfdd dfsd dsfd dfdf sdfs sasd sddf sddf dfds fdff sdfd sdff sdff dfdd fdsd dfdd dsdf dasd dadf dfaf dfad ssdfs sdff fafd sdff ssas ssdd aasd addf asdd sdfd"
+lesson 16 max size 728 character. line 4 char per line 182
+"dffg dddd ssdg ssad dfgf dfdd dfgd dsfd dgdf sdfs sgsd sddf sgdf dfds fdff sdgd sdff sdff dgdd fdsd dfgd dgdf dasd dagf dfaf dfad ssdfs sdfg fgfd sdff ssgs ssdd aasd adgf asdd dfsa"
+"dffg dddd ssdg ssad dfgf dfdd dfgd dsfd dgdf sdfs sgsd sddf sgdf dfds fdff sdgd sdff sdff dgdd fdsd dfgd dgdf dasd dagf dfaf dfad ssdfs sdfg fgfd sdff ssgs ssdd aasd adgf asdd dfsa"
+"dffg dddd ssdg ssad dfgf dfdd dfgd dsfd dgdf sdfs sgsd sddf sgdf dfds fdff sdgd sdff sdff dgdd fdsd dfgd dgdf dasd dagf dfaf dfad ssdfs sdfg fgfd sdff ssgs ssdd aasd adgf asdd dfsa"
+"dffg dddd ssdg ssad dfgf dfdd dfgd dsfd dgdf sdfs sgsd sddf sgdf dfds fdff sdgd sdff sdff dgdd fdsd dfgd dgdf dasd dagf dfaf dfad ssdfs sdfg fgfd sdff ssgs ssdd aasd adgf asdd dfsa"
+lesson 17 max size 728 character. line 4 char per line 182
+"kkjj lkkk klkl kjjl kllk kllj ;kl; kkll kkjl ljk; lkjj lkjj kjkj lkjl lkjj ljkl lkk; kjkl lj;l kjlk lkjl ljl; lkjk ;kjj lkj; lkj; l;jkk ;lkj kjjk lkjk kljl ljkl jlkl ljll lkjl ;lkl"
+"kkjj lkkk klkl kjjl kllk kllj ;kl; kkll kkjl ljk; lkjj lkjj kjkj lkjl lkjj ljkl lkk; kjkl lj;l kjlk lkjl ljl; lkjk ;kjj lkj; lkj; l;jkk ;lkj kjjk lkjk kljl ljkl jlkl ljll lkjl ;lkl"
+"kkjj lkkk klkl kjjl kllk kllj ;kl; kkll kkjl ljk; lkjj lkjj kjkj lkjl lkjj ljkl lkk; kjkl lj;l kjlk lkjl ljl; lkjk ;kjj lkj; lkj; l;jkk ;lkj kjjk lkjk kljl ljkl jlkl ljll lkjl ;lkl"
+"kkjj lkkk klkl kjjl kllk kllj ;kl; kkll kkjl ljk; lkjj lkjj kjkj lkjl lkjj ljkl lkk; kjkl lj;l kjlk lkjl ljl; lkjk ;kjj lkj; lkj; l;jkk ;lkj kjjk lkjk kljl ljkl jlkl ljll lkjl ;lkl"
+lesson 18 max size 728 character. line 4 char per line 182
+"kkjj hkkk hhkl kjjl kllk kllj hhl; kkll kkjh ljk; lkjj hhjj kjkj lkjl lkjj ljhl lkk; kjkl lj;l khlk lkjl ljl; lkjh ;kjj lkj; lkj; l;jkk ;lkh kjjk lkjk kljl lhkl jlkl ljll lkjl ;lkl"
+"kkjj hkkk hhkl kjjl kllk kllj hhl; kkll kkjh ljk; lkjj hhjj kjkj lkjl lkjj ljhl lkk; kjkl lj;l khlk lkjl ljl; lkjh ;kjj lkj; lkj; l;jkk ;lkh kjjk lkjk kljl lhkl jlkl ljll lkjl ;lkl"
+"kkjj hkkk hhkl kjjl kllk kllj hhl; kkll kkjh ljk; lkjj hhjj kjkj lkjl lkjj ljhl lkk; kjkl lj;l khlk lkjl ljl; lkjh ;kjj lkj; lkj; l;jkk ;lkh kjjk lkjk kljl lhkl jlkl ljll lkjl ;lkl"
+"kkjj hkkk hhkl kjjl kllk kllj hhl; kkll kkjh ljk; lkjj hhjj kjkj lkjl lkjj ljhl lkk; kjkl lj;l khlk lkjl ljl; lkjh ;kjj lkj; lkj; l;jkk ;lkh kjjk lkjk kljl lhkl jlkl ljll lkjl ;lkl"
+lesson 19 max size 728 character. line 4 char per line 182
+"dfjd dddk ssdd ssld d;df dfdd dfsd djfd dfdf skfs sasd skdf sddf dfls fdff sdjd sdff sdkf dfdd fdld dfad da;f dasd dadf df;f djad ssdfs s;ff fgfj sdff ssas ksdd aasd adjf asdd dfsk"
+"dfjd dddk ssdd ssld d;df dfdd dfsd djfd dfdf skfs sasd skdf sddf dfls fdff sdjd sdff sdkf dfdd fdld dfad da;f dasd dadf df;f djad ssdfs s;ff fgfj sdff ssas ksdd aasd adjf asdd dfsk"
+"dfjd dddk ssdd ssld d;df dfdd dfsd djfd dfdf skfs sasd skdf sddf dfls fdff sdjd sdff sdkf dfdd fdld dfad da;f dasd dadf df;f djad ssdfs s;ff fgfj sdff ssas ksdd aasd adjf asdd dfsk"
+"dfjd dddk ssdd ssld d;df dfdd dfsd djfd dfdf skfs sasd skdf sddf dfls fdff sdjd sdff sdkf dfdd fdld dfad da;f dasd dadf df;f djad ssdfs s;ff fgfj sdff ssas ksdd aasd adjf asdd dfsk"
+lesson 20 max size 728 character. line 4 char per line 182
+"jeed lead led j led jed fffg asd leda s leader fur edua feta sdfe fgek kluj dfdfg dfsdf jkle dfkl dfsd dfed dfedfd dfsd dfds de dfdk ku jdde klsde deuk lsde defs dfgkel dedsd dfgdd"
+"jeed lead led j led jed fffg asd leda s leader fur edua feta sdfe fgek kluj dfdfg dfsdf jkle dfkl dfsd dfed dfedfd dfsd dfds de dfdk ku jdde klsde deuk lsde defs dfgkel dedsd dfgdd"
+"jeed lead led j led jed fffg asd leda s leader fur edua feta sdfe fgek kluj dfdfg dfsdf jkle dfkl dfsd dfed dfedfd dfsd dfds de dfdk ku jdde klsde deuk lsde defs dfgkel dedsd dfgdd"
+"jeed lead led j led jed fffg asd leda s leader fur edua feta sdfe fgek kluj dfdfg dfsdf jkle dfkl dfsd dfed dfedfd dfsd dfds de dfdk ku jdde klsde deuk lsde defs dfgkel dedsd dfgdd"
+lesson 21 max size 728 character . line 4 char per line 182
+"fgf hal egg led hadfg jds dad dhad kedf dfls dflk dfsh hdsd fjhd dfl ddfgh dfgj dfsid dfdle dfgds df;dfde dsdk dfghd dfd dfdd kd dfdf kdf dsde dfdf ddfd dfde dedf j dfddf ddfd eedf"
+"fgf hal egg led hadfg jds dad dhad kedf dfls dflk dfsh hdsd fjhd dfl ddfgh dfgj dfsid dfdle dfgds df;dfde dsdk dfghd dfd dfdd kd dfdf kdf dsde dfdf ddfd dfde dedf j dfddf ddfd eedf"
+"fgf hal egg led hadfg jds dad dhad kedf dfls dflk dfsh hdsd fjhd dfl ddfgh dfgj dfsid dfdle dfgds df;dfde dsdk dfghd dfd dfdd kd dfdf kdf dsde dfdf ddfd dfde dedf j dfddf ddfd eedf"
+"fgf hal egg led hadfg jds dad dhad kedf dfls dflk dfsh hdsd fjhd dfl ddfgh dfgj dfsid dfdle dfgds df;dfde dsdk dfghd dfd dfdd kd dfdf kdf dsde dfdf ddfd dfde dedf j dfddf ddfd eedf"
+lesson 22 max size 728 character. line 4 char per line 182
+"dffd dddd ssdd ssad ,dfdf dfdd dfsd dsfd dfdf sdfs sasd sddf sddf dfds fdff sdfd sdff sdff dfdd fdsd dfad dsdf dasd dadf dfaf dfad ssdfs sdff fafd sdff ssas ssdd aasd addf asdd sdfd"
+"dffd dddd ssdd ssad dfdf dfdd dfsd dsfd dfdf sdfs sasd sddf sddf dfds fdff sdfd sdff sdff dfdd fdsd dfad dsdf dasd dadf dfaf dfad ssdfs sdff fafd sdff ssas ssdd aasd addf asdd sdfd"
+"dffd dddd ssdd ssad dfdf dfdd dfsd dsfd dfdf sdfs sasd sddf sddf dfds fdff sdfd sdff sdff dfdd fdsd dfad dsdf dasd dadf dfaf dfad ssdfs sdff fafd sdff ssas ssdd aasd addf asdd sdfd"
+"dffd dddd ssdd ssad dfdf dfdd dfsd dsfd dfdf sdfs sasd sddf sddf dfds fdff sdfd sdff sdff dfdd fdsd dfdd dsdf dasd dadf dfaf dfad ssdfs sdff fafd sdff ssas ssdd aasd addf asdd sdfd"
+lesson 23 max size 728 character. line 4 char per line 182
+"dffg dddd ssdg ssad dfgf dfdd dfgd dsfd dgdf sdfs sgsd sddf sgdf dfds fdff sdgd sdff sdff dgdd fdsd dfgd dgdf dasd dagf dfaf dfad ssdfs sdfg fgfd sdff ssgs ssdd aasd adgf asdd dfsa"
+"dffg dddd ssdg ssad dfgf dfdd dfgd dsfd dgdf sdfs sgsd sddf sgdf dfds fdff sdgd sdff sdff dgdd fdsd dfgd dgdf dasd dagf dfaf dfad ssdfs sdfg fgfd sdff ssgs ssdd aasd adgf asdd dfsa"
+"dffg dddd ssdg ssad dfgf dfdd dfgd dsfd dgdf sdfs sgsd sddf sgdf dfds fdff sdgd sdff sdff dgdd fdsd dfgd dgdf dasd dagf dfaf dfad ssdfs sdfg fgfd sdff ssgs ssdd aasd adgf asdd dfsa"
+"dffg dddd ssdg ssad dfgf dfdd dfgd dsfd dgdf sdfs sgsd sddf sgdf dfds fdff sdgd sdff sdff dgdd fdsd dfgd dgdf dasd dagf dfaf dfad ssdfs sdfg fgfd sdff ssgs ssdd aasd adgf asdd dfsa"
+lesson 24 max size 728 character. line 4 char per line 182
+"kkjj lkkk klkl kjjl kllk kllj ;kl; kkll kkjl ljk; lkjj lkjj kjkj lkjl lkjj ljkl lkk; kjkl lj;l kjlk lkjl ljl; lkjk ;kjj lkj; lkj; l;jkk ;lkj kjjk lkjk kljl ljkl jlkl ljll lkjl ;lkl"
+"kkjj lkkk klkl kjjl kllk kllj ;kl; kkll kkjl ljk; lkjj lkjj kjkj lkjl lkjj ljkl lkk; kjkl lj;l kjlk lkjl ljl; lkjk ;kjj lkj; lkj; l;jkk ;lkj kjjk lkjk kljl ljkl jlkl ljll lkjl ;lkl"
+"kkjj lkkk klkl kjjl kllk kllj ;kl; kkll kkjl ljk; lkjj lkjj kjkj lkjl lkjj ljkl lkk; kjkl lj;l kjlk lkjl ljl; lkjk ;kjj lkj; lkj; l;jkk ;lkj kjjk lkjk kljl ljkl jlkl ljll lkjl ;lkl"
+"kkjj lkkk klkl kjjl kllk kllj ;kl; kkll kkjl ljk; lkjj lkjj kjkj lkjl lkjj ljkl lkk; kjkl lj;l kjlk lkjl ljl; lkjk ;kjj lkj; lkj; l;jkk ;lkj kjjk lkjk kljl ljkl jlkl ljll lkjl ;lkl"
+lesson 25 max size 728 character. line 4 char per line 182
+"kkjj hkkk hhkl kjjl kllk kllj hhl; kkll kkjh ljk; lkjj hhjj kjkj lkjl lkjj ljhl lkk; kjkl lj;l khlk lkjl ljl; lkjh ;kjj lkj; lkj; l;jkk ;lkh kjjk lkjk kljl lhkl jlkl ljll lkjl ;lkl"
+"kkjj hkkk hhkl kjjl kllk kllj hhl; kkll kkjh ljk; lkjj hhjj kjkj lkjl lkjj ljhl lkk; kjkl lj;l khlk lkjl ljl; lkjh ;kjj lkj; lkj; l;jkk ;lkh kjjk lkjk kljl lhkl jlkl ljll lkjl ;lkl"
+"kkjj hkkk hhkl kjjl kllk kllj hhl; kkll kkjh ljk; lkjj hhjj kjkj lkjl lkjj ljhl lkk; kjkl lj;l khlk lkjl ljl; lkjh ;kjj lkj; lkj; l;jkk ;lkh kjjk lkjk kljl lhkl jlkl ljll lkjl ;lkl"
+"kkjj hkkk hhkl kjjl kllk kllj hhl; kkll kkjh ljk; lkjj hhjj kjkj lkjl lkjj ljhl lkk; kjkl lj;l khlk lkjl ljl; lkjh ;kjj lkj; lkj; l;jkk ;lkh kjjk lkjk kljl lhkl jlkl ljll lkjl ;lkl"
+lesson 26 max size 728 character. line 4 char per line 182
+"dfjd dddk ssdd ssld d;df dfdd dfsd djfd dfdf skfs sasd skdf sddf dfls fdff sdjd sdff sdkf dfdd fdld dfad da;f dasd dadf df;f djad ssdfs s;ff fgfj sdff ssas ksdd aasd adjf asdd dfsk"
+"dfjd dddk ssdd ssld d;df dfdd dfsd djfd dfdf skfs sasd skdf sddf dfls fdff sdjd sdff sdkf dfdd fdld dfad da;f dasd dadf df;f djad ssdfs s;ff fgfj sdff ssas ksdd aasd adjf asdd dfsk"
+"dfjd dddk ssdd ssld d;df dfdd dfsd djfd dfdf skfs sasd skdf sddf dfls fdff sdjd sdff sdkf dfdd fdld dfad da;f dasd dadf df;f djad ssdfs s;ff fgfj sdff ssas ksdd aasd adjf asdd dfsk"
+"dfjd dddk ssdd ssld d;df dfdd dfsd djfd dfdf skfs sasd skdf sddf dfls fdff sdjd sdff sdkf dfdd fdld dfad da;f dasd dadf df;f djad ssdfs s;ff fgfj sdff ssas ksdd aasd adjf asdd dfsk"
+lesson 27 max size 728 character. line 4 char per line 182
+"jeed lead led j led jed fffg asd leda s leader fur edua feta sdfe fgek kluj dfdfg dfsdf jkle dfkl dfsd dfed dfedfd dfsd dfds de dfdk ku jdde klsde deuk lsde defs dfgkel dedsd dfgdd"
+"jeed lead led j led jed fffg asd leda s leader fur edua feta sdfe fgek kluj dfdfg dfsdf jkle dfkl dfsd dfed dfedfd dfsd dfds de dfdk ku jdde klsde deuk lsde defs dfgkel dedsd dfgdd"
+"jeed lead led j led jed fffg asd leda s leader fur edua feta sdfe fgek kluj dfdfg dfsdf jkle dfkl dfsd dfed dfedfd dfsd dfds de dfdk ku jdde klsde deuk lsde defs dfgkel dedsd dfgdd"
+"jeed lead led j led jed fffg asd leda s leader fur edua feta sdfe fgek kluj dfdfg dfsdf jkle dfkl dfsd dfed dfedfd dfsd dfds de dfdk ku jdde klsde deuk lsde defs dfgkel dedsd dfgdd"
+lesson 28 max size 728 character . line 4 char per line 182
+"fgf hal egg led hadfg jds dad dhad kedf dfls dflk dfsh hdsd fjhd dfl ddfgh dfgj dfsid dfdle dfgds df;dfde dsdk dfghd dfd dfdd kd dfdf kdf dsde dfdf ddfd dfde dedf j dfddf ddfd eedf"
+"fgf hal egg led hadfg jds dad dhad kedf dfls dflk dfsh hdsd fjhd dfl ddfgh dfgj dfsid dfdle dfgds df;dfde dsdk dfghd dfd dfdd kd dfdf kdf dsde dfdf ddfd dfde dedf j dfddf ddfd eedf"
+"fgf hal egg led hadfg jds dad dhad kedf dfls dflk dfsh hdsd fjhd dfl ddfgh dfgj dfsid dfdle dfgds df;dfde dsdk dfghd dfd dfdd kd dfdf kdf dsde dfdf ddfd dfde dedf j dfddf ddfd eedf"
+"fgf hal egg led hadfg jds dad dhad kedf dfls dflk dfsh hdsd fjhd dfl ddfgh dfgj dfsid dfdle dfgds df;dfde dsdk dfghd dfd dfdd kd dfdf kdf dsde dfdf ddfd dfde dedf j dfddf ddfd eedf"
+lesson 29 max size 728 character. line 4 char per line 182
+"ddfg dddd ssdg ssad dfgf dfdd dfgd dsfd dgdf sdfs sgsd sddf sgdf dfds fdff sdgd sdff sdff dgdd fdsd dfgd dgdf dasd dagf dfaf dfad ssdfs sdfg fgfd sdff ssgs ssdd aasd adgf asdd dfsa"
+"dffg dddd ssdg ssad dfgf dfdd dfgd dsfd dgdf sdfs sgsd sddf sgdf dfds fdff sdgd sdff sdff dgdd fdsd dfgd dgdf dasd dagf dfaf dfad ssdfs sdfg fgfd sdff ssgs ssdd aasd adgf asdd dfsa"
+"dffg dddd ssdg ssad dfgf dfdd dfgd dsfd dgdf sdfs sgsd sddf sgdf dfds fdff sdgd sdff sdff dgdd fdsd dfgd dgdf dasd dagf dfaf dfad ssdfs sdfg fgfd sdff ssgs ssdd aasd adgf asdd dfsa"
+"dffg dddd ssdg ssad dfgf dfdd dfgd dsfd dgdf sdfs sgsd sddf sgdf dfds fdff sdgd sdff sdff dgdd fdsd dfgd dgdf dasd dagf dfaf dfad ssdfs sdfg fgfd sdff ssgs ssdd aasd adgf asdd dfsa"
+lesson 30 max size 728 character. line 4 char per line 182
+"kkjj lkkk klkl kjjl kllk kllj ;kl; kkll kkjl ljk; lkjj lkjj kjkj lkjl lkjj ljkl lkk; kjkl lj;l kjlk lkjl ljl; lkjk ;kjj lkj; lkj; l;jkk ;lkj kjjk lkjk kljl ljkl jlkl ljll lkjl ;lkl"
+"kkjj lkkk klkl kjjl kllk kllj ;kl; kkll kkjl ljk; lkjj lkjj kjkj lkjl lkjj ljkl lkk; kjkl lj;l kjlk lkjl ljl; lkjk ;kjj lkj; lkj; l;jkk ;lkj kjjk lkjk kljl ljkl jlkl ljll lkjl ;lkl"
+"kkjj lkkk klkl kjjl kllk kllj ;kl; kkll kkjl ljk; lkjj lkjj kjkj lkjl lkjj ljkl lkk; kjkl lj;l kjlk lkjl ljl; lkjk ;kjj lkj; lkj; l;jkk ;lkj kjjk lkjk kljl ljkl jlkl ljll lkjl ;lkl"
+"kkjj lkkk klkl kjjl kllk kllj ;kl; kkll kkjl ljk; lkjj lkjj kjkj lkjl lkjj ljkl lkk; kjkl lj;l kjlk lkjl ljl; lkjk ;kjj lkj; lkj; l;jkk ;lkj kjjk lkjk kljl ljkl jlkl ljll lkjl ;lkl"
+lesson 31 max size 728 character. line 4 char per line 182
+"kkjj hkkk hhkl kjjl kllk kllj hhl; kkll kkjh ljk; lkjj hhjj kjkj lkjl lkjj ljhl lkk; kjkl lj;l khlk lkjl ljl; lkjh ;kjj lkj; lkj; l;jkk ;lkh kjjk lkjk kljl lhkl jlkl ljll lkjl ;lkl"
+"kkjj hkkk hhkl kjjl kllk kllj hhl; kkll kkjh ljk; lkjj hhjj kjkj lkjl lkjj ljhl lkk; kjkl lj;l khlk lkjl ljl; lkjh ;kjj lkj; lkj; l;jkk ;lkh kjjk lkjk kljl lhkl jlkl ljll lkjl ;lkl"
+"kkjj hkkk hhkl kjjl kllk kllj hhl; kkll kkjh ljk; lkjj hhjj kjkj lkjl lkjj ljhl lkk; kjkl lj;l khlk lkjl ljl; lkjh ;kjj lkj; lkj; l;jkk ;lkh kjjk lkjk kljl lhkl jlkl ljll lkjl ;lkl"
+"kkjj hkkk hhkl kjjl kllk kllj hhl; kkll kkjh ljk; lkjj hhjj kjkj lkjl lkjj ljhl lkk; kjkl lj;l khlk lkjl ljl; lkjh ;kjj lkj; lkj; l;jkk ;lkh kjjk lkjk kljl lhkl jlkl ljll lkjl ;lkl"
+lesson 32 max size 728 character. line 4 char per line 182
+"dfjd dddk ssdd ssld d;df dfdd dfsd djfd dfdf skfs sasd skdf sddf dfls fdff sdjd sdff sdkf dfdd fdld dfad da;f dasd dadf df;f djad ssdfs s;ff fgfj sdff ssas ksdd aasd adjf asdd dfsk"
+"dfjd dddk ssdd ssld d;df dfdd dfsd djfd dfdf skfs sasd skdf sddf dfls fdff sdjd sdff sdkf dfdd fdld dfad da;f dasd dadf df;f djad ssdfs s;ff fgfj sdff ssas ksdd aasd adjf asdd dfsk"
+"dfjd dddk ssdd ssld d;df dfdd dfsd djfd dfdf skfs sasd skdf sddf dfls fdff sdjd sdff sdkf dfdd fdld dfad da;f dasd dadf df;f djad ssdfs s;ff fgfj sdff ssas ksdd aasd adjf asdd dfsk"
+"dfjd dddk ssdd ssld d;df dfdd dfsd djfd dfdf skfs sasd skdf sddf dfls fdff sdjd sdff sdkf dfdd fdld dfad da;f dasd dadf df;f djad ssdfs s;ff fgfj sdff ssas ksdd aasd adjf asdd dfsk"
+lesson 33 max size 728 character. line 4 char per line 182
+"jeed lead led j led jed fffg asd leda s leader fur edua feta sdfe fgek kluj dfdfg dfsdf jkle dfkl dfsd dfed dfedfd dfsd dfds de dfdk ku jdde klsde deuk lsde defs dfgkel dedsd dfgdd"
+"jeed lead led j led jed fffg asd leda s leader fur edua feta sdfe fgek kluj dfdfg dfsdf jkle dfkl dfsd dfed dfedfd dfsd dfds de dfdk ku jdde klsde deuk lsde defs dfgkel dedsd dfgdd"
+"jeed lead led j led jed fffg asd leda s leader fur edua feta sdfe fgek kluj dfdfg dfsdf jkle dfkl dfsd dfed dfedfd dfsd dfds de dfdk ku jdde klsde deuk lsde defs dfgkel dedsd dfgdd"
+"jeed lead led j led jed fffg asd leda s leader fur edua feta sdfe fgek kluj dfdfg dfsdf jkle dfkl dfsd dfed dfedfd dfsd dfds de dfdk ku jdde klsde deuk lsde defs dfgkel dedsd dfgdd"
+lesson 34 max size 728 character . line 4 char per line 182
+"fgf hal egg led hadfg jds dad dhad kedf dfls dflk dfsh hdsd fjhd dfl ddfgh dfgj dfsid dfdle dfgds df;dfde dsdk dfghd dfd dfdd kd dfdf kdf dsde dfdf ddfd dfde dedf j dfddf ddfd eedf"
+"fgf hal egg led hadfg jds dad dhad kedf dfls dflk dfsh hdsd fjhd dfl ddfgh dfgj dfsid dfdle dfgds df;dfde dsdk dfghd dfd dfdd kd dfdf kdf dsde dfdf ddfd dfde dedf j dfddf ddfd eedf"
+"fgf hal egg led hadfg jds dad dhad kedf dfls dflk dfsh hdsd fjhd dfl ddfgh dfgj dfsid dfdle dfgds df;dfde dsdk dfghd dfd dfdd kd dfdf kdf dsde dfdf ddfd dfde dedf j dfddf ddfd eedf"
+"fgf hal egg led hadfg jds dad dhad kedf dfls dflk dfsh hdsd fjhd dfl ddfgh dfgj dfsid dfdle dfgds df;dfde dsdk dfghd dfd dfdd kd dfdf kdf dsde dfdf ddfd dfde dedf j dfddf ddfd eedf"
+lesson 35 max size 728 character. line 4 char per line 182
+"dffd dddd ssdd ssad ,dfdf dfdd dfsd dsfd dfdf sdfs sasd sddf sddf dfds fdff sdfd sdff sdff dfdd fdsd dfad dsdf dasd dadf dfaf dfad ssdfs sdff fafd sdff ssas ssdd aasd addf asdd sdfd"
+"dffd dddd ssdd ssad dfdf dfdd dfsd dsfd dfdf sdfs sasd sddf sddf dfds fdff sdfd sdff sdff dfdd fdsd dfad dsdf dasd dadf dfaf dfad ssdfs sdff fafd sdff ssas ssdd aasd addf asdd sdfd"
+"dffd dddd ssdd ssad dfdf dfdd dfsd dsfd dfdf sdfs sasd sddf sddf dfds fdff sdfd sdff sdff dfdd fdsd dfad dsdf dasd dadf dfaf dfad ssdfs sdff fafd sdff ssas ssdd aasd addf asdd sdfd"
+"dffd dddd ssdd ssad dfdf dfdd dfsd dsfd dfdf sdfs sasd sddf sddf dfds fdff sdfd sdff sdff dfdd fdsd dfdd dsdf dasd dadf dfaf dfad ssdfs sdff fafd sdff ssas ssdd aasd addf asdd sdfd"
+lesson 36 max size 728 character. line 4 char per line 182
+"dffg dddd ssdg ssad dfgf dfdd dfgd dsfd dgdf sdfs sgsd sddf sgdf dfds fdff sdgd sdff sdff dgdd fdsd dfgd dgdf dasd dagf dfaf dfad ssdfs sdfg fgfd sdff ssgs ssdd aasd adgf asdd dfsa"
+"dffg dddd ssdg ssad dfgf dfdd dfgd dsfd dgdf sdfs sgsd sddf sgdf dfds fdff sdgd sdff sdff dgdd fdsd dfgd dgdf dasd dagf dfaf dfad ssdfs sdfg fgfd sdff ssgs ssdd aasd adgf asdd dfsa"
+"dffg dddd ssdg ssad dfgf dfdd dfgd dsfd dgdf sdfs sgsd sddf sgdf dfds fdff sdgd sdff sdff dgdd fdsd dfgd dgdf dasd dagf dfaf dfad ssdfs sdfg fgfd sdff ssgs ssdd aasd adgf asdd dfsa"
+"dffg dddd ssdg ssad dfgf dfdd dfgd dsfd dgdf sdfs sgsd sddf sgdf dfds fdff sdgd sdff sdff dgdd fdsd dfgd dgdf dasd dagf dfaf dfad ssdfs sdfg fgfd sdff ssgs ssdd aasd adgf asdd dfsa"
+lesson 37 max size 728 character. line 4 char per line 182
+"kkjj lkkk klkl kjjl kllk kllj ;kl; kkll kkjl ljk; lkjj lkjj kjkj lkjl lkjj ljkl lkk; kjkl lj;l kjlk lkjl ljl; lkjk ;kjj lkj; lkj; l;jkk ;lkj kjjk lkjk kljl ljkl jlkl ljll lkjl ;lkl"
+"kkjj lkkk klkl kjjl kllk kllj ;kl; kkll kkjl ljk; lkjj lkjj kjkj lkjl lkjj ljkl lkk; kjkl lj;l kjlk lkjl ljl; lkjk ;kjj lkj; lkj; l;jkk ;lkj kjjk lkjk kljl ljkl jlkl ljll lkjl ;lkl"
+"kkjj lkkk klkl kjjl kllk kllj ;kl; kkll kkjl ljk; lkjj lkjj kjkj lkjl lkjj ljkl lkk; kjkl lj;l kjlk lkjl ljl; lkjk ;kjj lkj; lkj; l;jkk ;lkj kjjk lkjk kljl ljkl jlkl ljll lkjl ;lkl"
+"kkjj lkkk klkl kjjl kllk kllj ;kl; kkll kkjl ljk; lkjj lkjj kjkj lkjl lkjj ljkl lkk; kjkl lj;l kjlk lkjl ljl; lkjk ;kjj lkj; lkj; l;jkk ;lkj kjjk lkjk kljl ljkl jlkl ljll lkjl ;lkl"
+lesson 38 max size 728 character. line 4 char per line 182
+"kkjj hkkk hhkl kjjl kllk kllj hhl; kkll kkjh ljk; lkjj hhjj kjkj lkjl lkjj ljhl lkk; kjkl lj;l khlk lkjl ljl; lkjh ;kjj lkj; lkj; l;jkk ;lkh kjjk lkjk kljl lhkl jlkl ljll lkjl ;lkl"
+"kkjj hkkk hhkl kjjl kllk kllj hhl; kkll kkjh ljk; lkjj hhjj kjkj lkjl lkjj ljhl lkk; kjkl lj;l khlk lkjl ljl; lkjh ;kjj lkj; lkj; l;jkk ;lkh kjjk lkjk kljl lhkl jlkl ljll lkjl ;lkl"
+"kkjj hkkk hhkl kjjl kllk kllj hhl; kkll kkjh ljk; lkjj hhjj kjkj lkjl lkjj ljhl lkk; kjkl lj;l khlk lkjl ljl; lkjh ;kjj lkj; lkj; l;jkk ;lkh kjjk lkjk kljl lhkl jlkl ljll lkjl ;lkl"
+"kkjj hkkk hhkl kjjl kllk kllj hhl; kkll kkjh ljk; lkjj hhjj kjkj lkjl lkjj ljhl lkk; kjkl lj;l khlk lkjl ljl; lkjh ;kjj lkj; lkj; l;jkk ;lkh kjjk lkjk kljl lhkl jlkl ljll lkjl ;lkl"
+lesson 39 max size 728 character. line 4 char per line 182
+"dfjd dddk ssdd ssld d;df dfdd dfsd djfd dfdf skfs sasd skdf sddf dfls fdff sdjd sdff sdkf dfdd fdld dfad da;f dasd dadf df;f djad ssdfs s;ff fgfj sdff ssas ksdd aasd adjf asdd dfsk"
+"dfjd dddk ssdd ssld d;df dfdd dfsd djfd dfdf skfs sasd skdf sddf dfls fdff sdjd sdff sdkf dfdd fdld dfad da;f dasd dadf df;f djad ssdfs s;ff fgfj sdff ssas ksdd aasd adjf asdd dfsk"
+"dfjd dddk ssdd ssld d;df dfdd dfsd djfd dfdf skfs sasd skdf sddf dfls fdff sdjd sdff sdkf dfdd fdld dfad da;f dasd dadf df;f djad ssdfs s;ff fgfj sdff ssas ksdd aasd adjf asdd dfsk"
+"dfjd dddk ssdd ssld d;df dfdd dfsd djfd dfdf skfs sasd skdf sddf dfls fdff sdjd sdff sdkf dfdd fdld dfad da;f dasd dadf df;f djad ssdfs s;ff fgfj sdff ssas ksdd aasd adjf asdd dfsk"
+lesson 40 max size 728 character. line 4 char per line 182
+"jeed lead led j led jed fffg asd leda s leader fur edua feta sdfe fgek kluj dfdfg dfsdf jkle dfkl dfsd dfed dfedfd dfsd dfds de dfdk ku jdde klsde deuk lsde defs dfgkel dedsd dfgdd"
+"jeed lead led j led jed fffg asd leda s leader fur edua feta sdfe fgek kluj dfdfg dfsdf jkle dfkl dfsd dfed dfedfd dfsd dfds de dfdk ku jdde klsde deuk lsde defs dfgkel dedsd dfgdd"
+"jeed lead led j led jed fffg asd leda s leader fur edua feta sdfe fgek kluj dfdfg dfsdf jkle dfkl dfsd dfed dfedfd dfsd dfds de dfdk ku jdde klsde deuk lsde defs dfgkel dedsd dfgdd"
+"jeed lead led j led jed fffg asd leda s leader fur edua feta sdfe fgek kluj dfdfg dfsdf jkle dfkl dfsd dfed dfedfd dfsd dfds de dfdk ku jdde klsde deuk lsde defs dfgkel dedsd dfgdd"
+lesson 41 max size 728 character . line 4 char per line 182
+"fgf hal egg led hadfg jds dad dhad kedf dfls dflk dfsh hdsd fjhd dfl ddfgh dfgj dfsid dfdle dfgds df;dfde dsdk dfghd dfd dfdd kd dfdf kdf dsde dfdf ddfd dfde dedf j dfddf ddfd eedf"
+"fgf hal egg led hadfg jds dad dhad kedf dfls dflk dfsh hdsd fjhd dfl ddfgh dfgj dfsid dfdle dfgds df;dfde dsdk dfghd dfd dfdd kd dfdf kdf dsde dfdf ddfd dfde dedf j dfddf ddfd eedf"
+"fgf hal egg led hadfg jds dad dhad kedf dfls dflk dfsh hdsd fjhd dfl ddfgh dfgj dfsid dfdle dfgds df;dfde dsdk dfghd dfd dfdd kd dfdf kdf dsde dfdf ddfd dfde dedf j dfddf ddfd eedf"
+"fgf hal egg led hadfg jds dad dhad kedf dfls dflk dfsh hdsd fjhd dfl ddfgh dfgj dfsid dfdle dfgds df;dfde dsdk dfghd dfd dfdd kd dfdf kdf dsde dfdf ddfd dfde dedf j dfddf ddfd eedf"
+lesson 42 max size 728 character. line 4 char per line 182
+"dffd dddd ssdd ssad ,dfdf dfdd dfsd dsfd dfdf sdfs sasd sddf sddf dfds fdff sdfd sdff sdff dfdd fdsd dfad dsdf dasd dadf dfaf dfad ssdfs sdff fafd sdff ssas ssdd aasd addf asdd sdfd"
+"dffd dddd ssdd ssad dfdf dfdd dfsd dsfd dfdf sdfs sasd sddf sddf dfds fdff sdfd sdff sdff dfdd fdsd dfad dsdf dasd dadf dfaf dfad ssdfs sdff fafd sdff ssas ssdd aasd addf asdd sdfd"
+"dffd dddd ssdd ssad dfdf dfdd dfsd dsfd dfdf sdfs sasd sddf sddf dfds fdff sdfd sdff sdff dfdd fdsd dfad dsdf dasd dadf dfaf dfad ssdfs sdff fafd sdff ssas ssdd aasd addf asdd sdfd"
+"dffd dddd ssdd ssad dfdf dfdd dfsd dsfd dfdf sdfs sasd sddf sddf dfds fdff sdfd sdff sdff dfdd fdsd dfdd dsdf dasd dadf dfaf dfad ssdfs sdff fafd sdff ssas ssdd aasd addf asdd sdfd"
+
+
+
+
