@@ -113,7 +113,7 @@ olo5$=olo$+olo2$+olo3$+olo4$
 color 18
 locate 4,1:print olo5$
 color 7,0
-locate 5,1:print "email Address : bugingski@yahoo.com"
+locate 5,1:print "email Address : "
 
 locate 7,1:print
 exit loop
